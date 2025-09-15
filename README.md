@@ -1,18 +1,17 @@
 - 👋 Hi, I’m Prakhar (@prakhart07)
-- 👀 I’m interested in coding,developing software,problem solving,learning new technology and many more...
 
-  Technology-
-          💻FrontEnd: HTML,CSS,JavaScript,React.JS.
-          📤 BackEnd: J2E,.NET,Node.JS,Express.Js.
-          🗄️Database-MySQL,SQL Server.
-   
-- 💞️ Love binge watching TV Shows and Animes.
-  
-- 📫 How to reach me ... here's my LinkedIn profile --> www.linkedin.com/in/prakhar-tripathi-24253a118
+🚀 Our Services at Genkaix
 
-- 💻 CDAC Project:https://github.com/shiksha-bharat/CDACProject.git
-  
-- 💻 Portfolio: https://github.com/prakhart07/Portfolio.git
+At Genkaix, we help businesses go digital with innovative and affordable IT solutions. Our key services include:
+
+🌐 Website Development – Modern, responsive, and SEO-friendly websites.
+⚡ Web Applications – Scalable, secure, and high-performance web apps.
+📱 Mobile App Development – Android & iOS apps with user-friendly design.
+🤖 AI Solutions – Smart automation, AI-powered applications, and business intelligence.
+🎨 UI/UX Design – Engaging, user-focused, and creative digital experiences.
+📢 Digital Marketing – Boost your brand visibility with SEO, SMO & Ads.
+☁️ Cloud Deployment (AWS, Vercel, etc.) – Reliable hosting & scalability.
+💡 We aim to empower startups, SMEs, and enterprises with affordable yet high-quality digital solutions.
 <!---
 prakhart07/prakhart07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
