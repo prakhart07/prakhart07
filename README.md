@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prakhar (@prakhart07)
+- 👋 Hi, I’m Prakhar (@prakhart07) Founder and COO of Genkaix
 
 🚀 Our Services at Genkaix
 
