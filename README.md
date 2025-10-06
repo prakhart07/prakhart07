@@ -4,7 +4,7 @@
 
 At Genkaix, we help businesses go digital with innovative and affordable IT solutions. Our key services include:
 
-🌐 Website Development – Modern, responsive, and SEO-friendly websites.
+🌐 Website Development – Modern, responsive, and SEO-friendly websites. 
 
 ⚡ Web Applications – Scalable, secure, and high-performance web apps.
 
