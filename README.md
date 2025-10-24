@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prakhar Tripathi, Founder and CEO of Genkaix
+- 👋 Hi, I’m Prakhar Tripathi, Founder and CEO of GENKAIX
 
 🚀 Our Services at Genkaix
 
