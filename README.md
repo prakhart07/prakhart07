@@ -1,25 +1,37 @@
-- 👋 Hi, I’m Prakhar Tripathi, Founder and CEO of GENKAIX
+About GENKAIX
 
-🚀 Our Services at Genkaix
+👋 Hi, I’m Prakhar Tripathi, Founder & CEO of GENKAIX.
 
-At Genkaix, we help businesses go digital with innovative and affordable IT solutions. Our key services include:
+GENKAIX is a technology-driven IT services company focused on helping businesses transform ideas into reliable, scalable, and impactful digital products. We work with startups, SMEs, and growing enterprises to build modern solutions that are practical, affordable, and future-ready.
 
-🌐 Website Development – Modern, responsive, and SEO-friendly websites. 
 
-⚡ Web Applications – Scalable, secure, and high-performance web apps.
+What We Do
 
-📱 Mobile App Development – Android & iOS apps with user-friendly design.
+🚀 Full-Stack Development
+We build modern, responsive, and SEO-friendly websites along with scalable, secure web applications designed for real business use cases.
 
-🤖 AI Solutions – Smart automation, AI-powered applications, and business intelligence.
+🤖 AI & Automation Solutions
+AI-powered applications, smart automation, and data-driven insights to improve efficiency and decision-making.
 
-🎨 UI/UX Design – Engaging, user-focused, and creative digital experiences.
+☁️ Cloud & Deployment
+Reliable cloud deployment and scaling using AWS, Azure, GCP, Vercel, and modern DevOps practices.
 
-📢 Digital Marketing – Boost your brand visibility with SEO, SMO & Ads.
+📱 Mobile App Development
+Native and cross-platform Android & iOS applications with intuitive UI and smooth user experiences.
 
-☁️ Cloud Deployment (AWS,Azure,GCP,Vercel, etc.) – Reliable hosting & scalability.
+🎨 UI/UX Design
+User-centric, visually engaging designs that balance creativity with usability.
 
-💡 We aim to empower startups, SMEs, and enterprises with affordable yet high-quality digital solutions.
+📢 Digital Marketing
+SEO, social media optimization, and targeted advertising to increase brand visibility and reach.
+
 <!---
 prakhart07/prakhart07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Our portfolio showcases real-world projects across web, mobile, cloud, and AI, highlighting our ability to deliver clean design, solid architecture, and performance-oriented systems.
+
+<img width="2245" height="1587" alt="1" src="https://github.com/user-attachments/assets/4dd55bc5-118d-48e1-991b-c7c67917e07a" />
+<img width="2245" height="1587" alt="2" src="https://github.com/user-attachments/assets/8c3b9133-8cd0-4992-9e98-156b507dd515" />
+<img width="2245" height="1587" alt="4" src="https://github.com/user-attachments/assets/6c8b1588-dd74-458c-8738-71483f618f94" />
+<img width="2245" height="1587" alt="3" src="https://github.com/user-attachments/assets/6208b730-8b47-4d8c-99e8-881deaf65104" />
