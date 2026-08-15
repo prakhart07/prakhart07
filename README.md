@@ -32,11 +32,23 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=prakhart07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=prakhart07&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
 # 📊 GitHub Streak:
-![](https://streak-stats.demolab.com/?user=prakhart07&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=prakhart07&theme=flag-india&hide_border=false)<br/>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=prakhart07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=prakhart07&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prakhart07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=prakhart07&limit=5&theme=flag-india&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=prakhart07&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prakhart07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
