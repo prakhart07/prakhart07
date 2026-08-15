@@ -50,17 +50,12 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prakhart07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prakhart07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### Badges
 
 
 
-> Awesome Octocats: https://octodex.github.com/
+> Awesome Octocats: 
 
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 
