@@ -33,11 +33,13 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=prakhart07&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
-# 📊 GitHub Streak:
-![](https://streak-stats.demolab.com/?user=prakhart07&theme=flag-india&hide_border=false)<br/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=prakhart07&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 GitHub Streak:
+![](https://streak-stats.demolab.com/?user=prakhart07&theme=flag-india&hide_border=false)<br/>
+ 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prakhart07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
